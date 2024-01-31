@@ -37,27 +37,6 @@ a {
   margin-bottom: 40px;
 }
 
-.btn-wrapper {
-  text-align: center;
-}
-
-.btn-wrapper p {
-  margin-bottom: 20px;
-}
-
-.btn {
-  padding: 8px 24px;
-  color: white;
-  display: inline-block;
-  opacity: 0.8;
-  border-radius: 4px;
-  text-align: center;
-}
-
-.btn:hover {
-  opacity: 1;
-}
-
 .fa {
   margin-right: 5px;
 }
@@ -137,72 +116,4 @@ footer {
   font-size: 25px;
   padding: 21px 0;
   display: none;
-}
-
-
-@media all and (max-width: 1000px) {
-  .lesson {
-    width: 50%;
-    margin-bottom: 50px;
-  }
-
-  .lesson-wrapper {
-    height: 990px;
-  }
-
-  footer {
-    text-align: center;
-  }
-}
-
-@media all and (max-width: 750px) {
-  .top-wrapper h1 {
-    font-size: 32px;
-  }
-
-  .heading h2 {
-    font-size: 20px;
-  }
-}
-
-@media all and (max-width: 670px) {
-  .header-right {
-    display: none;
-  }
-
-  .menu-icon {
-    display: block;
-  }
-
-  .top-wrapper .btn {
-    width: 100%;
-  }
-
-  .twitter {
-    margin-top: 10px;
-  }
-
-  .top-wrapper {
-    text-align: left;
-  }
-
-  .top-wrapper h1 {
-    font-size: 24px;
-  }
-
-  .top-wrapper p {
-    font-size: 14px;
-  }
-
-  .lesson {
-    width: 100%;
-  }
-
-  .lesson-wrapper {
-    height: 1700px;
-  }
-
-  .message-wrapper .btn {
-    width: 100%;
-  }
 }
