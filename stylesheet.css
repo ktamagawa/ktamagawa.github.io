@@ -21,8 +21,8 @@ a {
   padding: 180px 0 100px 0;
   /*background-image: url(top.png);*/
   background-size: cover;
-  color: white;
-  text-align: center;
+  /*color: white;*/
+  /*text-align: center;*/
 }
 
 .top-wrapper h1 {
@@ -43,19 +43,6 @@ a {
 
 .btn-wrapper p {
   margin-bottom: 20px;
-}
-
-.signup {
-  background-color: #239b76;
-}
-
-.facebook {
-  background-color: #3b5998;
-  margin-right: 10px;
-}
-
-.twitter {
-  background-color: #55acee;
 }
 
 .btn {
