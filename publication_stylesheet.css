@@ -11,7 +11,7 @@ a {
   text-decoration: none;
 }
 
-.container {
+.publication {
   width: 100%;
   padding: 0 15px;
   margin: 0 auto;
@@ -60,15 +60,6 @@ header {
 
 .header-right a:hover {
   background-color: rgba(255,255,255,0.3);
-}
-
-.contact-wrapper {
-  height: 580px;
-  padding-bottom: 80px;
-  padding-left: 5%;
-  padding-right: 5%;
-  background-color: #f7f7f7;
-  text-align: left;
 }
 
 .heading {
