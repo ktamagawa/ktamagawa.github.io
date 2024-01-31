@@ -50,11 +50,12 @@ header {
 
 .header-left {
   float: left;
-  color: white;
 }
 
 .header-left p {
   color: white;
+  line-height: 65px;
+  padding: 0 25px;
 }
 
 .header-right {
