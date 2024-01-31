@@ -10,9 +10,10 @@ body {
 a {
   text-decoration: none;
 }
-a:link {
+a.publication:link {
  color: #0000EE;
  text-decoration: underline;
+ text-decoration: none;
 }
 .container {
   width: 100%;
