@@ -14,7 +14,7 @@ ol li{
   padding-top: 10px;
   padding-bottom: 10px;
 }
-a.publication:link {
+ol li.publication:link {
  color: #0000EE;
  text-decoration: underline;
  /*text-decoration: none;*/
