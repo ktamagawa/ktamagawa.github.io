@@ -16,9 +16,8 @@ ol li{
 }
 a.publication:link {
  color: #0000EE;
- /*padding: 20px; */
  text-decoration: underline;
- text-decoration: none;
+ /*text-decoration: none;*/
 }
 .container {
   width: 100%;
