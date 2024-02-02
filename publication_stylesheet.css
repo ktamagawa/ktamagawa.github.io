@@ -31,7 +31,8 @@ a.publication:link {
   padding: 0 15px;
   margin: 0 auto;
   padding-top: 80px;
-  text-align: left;
+  /*text-align: left;*/
+  float: left;
   color: #5f5d60;
 }
 
