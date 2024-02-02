@@ -19,7 +19,6 @@ a.publication:link {
   width: 100%;
   padding: 0 15px;
   margin: 0 auto;
-  color: #5f5d60;
 }
 
 .publication {
@@ -28,6 +27,7 @@ a.publication:link {
   margin: 0 auto;
   padding-top: 80px;
   text-align: left;
+  color: #5f5d60;
 }
 
 .fa {
