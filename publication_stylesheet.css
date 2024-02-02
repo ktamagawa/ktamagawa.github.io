@@ -10,6 +10,10 @@ body {
 a {
   text-decoration: none;
 }
+ol {
+  padding-top: 10px;
+  padding-bottom: 10px
+}
 a.publication:link {
  color: #0000EE;
  padding: 20px; 
