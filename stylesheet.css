@@ -61,8 +61,7 @@ a {
 }
 
 .heading {
-  padding-top: 80px;
-  /*padding-bottom: 50px;*/
+  padding-bottom: 50px;
   color: #5f5d60;
   text-align: left;
 }
@@ -72,6 +71,7 @@ a {
 }
 
 .top-wrapper {
+  padding-top: 80px;
   padding-left: 5%;
   padding-right: 5%;
 }
