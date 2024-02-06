@@ -29,6 +29,7 @@ header {
 
 .header-left p {
   line-height: 65px;
+  padding: 0 25px;
   color: white;
   display: block;
   float: left;
