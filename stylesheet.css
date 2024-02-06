@@ -23,7 +23,8 @@ header {
 .header-left p {
   color: white;
   line-height: 65px;
-  padding: 0 25px;
+  padding-left: 5%;
+  padding-right: 5%;
   display: block;
   float: left;
 }
@@ -58,7 +59,6 @@ a {
   width: 100%;
   padding: 0 15px;
   margin: 0 auto;
-  text-align: left;
 }
 
 .heading {
@@ -73,12 +73,8 @@ a {
 }
 
 .top-wrapper {
-  /*padding: 180px 0 100px 0;*/
-  /*background-image: url(top.png);*/
-  /*background-size: cover;*/
   padding-left: 5%;
   padding-right: 5%;
-  /*background-color: #f7f7f7;*/
 }
 
 .contact-wrapper {
