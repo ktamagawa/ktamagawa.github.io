@@ -72,10 +72,10 @@ header {
 }
 
 .contact-wrapper {
-  height: 580px;
-  padding-bottom: 80px;
-  padding-left: 5%;
-  padding-right: 5%;
+  height: 400px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
   background-color: #f7f7f7;
   text-align: left;
 }
