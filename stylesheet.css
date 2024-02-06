@@ -21,9 +21,9 @@ header {
 }
 
 .header-left p {
-  color: white;
   line-height: 65px;
   padding-left: 5%;
+  color: white;
   display: block;
   float: left;
 }
