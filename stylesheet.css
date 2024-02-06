@@ -7,31 +7,6 @@ body {
   font-family: "Avenir Next", "yu gothic ui";
 }
 
-a {
-  text-decoration: none;
-}
-
-.container {
-  width: 100%;
-  padding: 0 15px;
-  margin: 0 auto;
-  text-align: left;
-}
-
-.top-wrapper {
-  /*padding: 180px 0 100px 0;*/
-  /*background-image: url(top.png);*/
-  /*background-size: cover;*/
-  padding-left: 5%;
-  padding-right: 5%;
-  /*background-color: #f7f7f7;*/
-  text-align: left;
-}
-
-.fa {
-  margin-right: 5px;
-}
-
 header {
   height: 65px;
   width: 100%;
@@ -71,12 +46,18 @@ header {
   background-color: rgba(255,255,255,0.3);
 }
 
-.contact-wrapper {
-  height: 400px;
-  padding-bottom: 15px;
-  padding-left: 15px;
-  padding-right: 15px;
-  background-color: #f7f7f7;
+a {
+  text-decoration: none;
+}
+
+.fa {
+  margin-right: 5px;
+}
+
+.container {
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
   text-align: left;
 }
 
@@ -84,10 +65,28 @@ header {
   padding-top: 80px;
   padding-bottom: 50px;
   color: #5f5d60;
+  text-align: left;
 }
 
 .heading h2 {
   font-weight: normal;
+}
+
+.top-wrapper {
+  /*padding: 180px 0 100px 0;*/
+  /*background-image: url(top.png);*/
+  /*background-size: cover;*/
+  padding-left: 5%;
+  padding-right: 5%;
+  /*background-color: #f7f7f7;*/
+}
+
+.contact-wrapper {
+  height: 400px;
+  padding-bottom: 15px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #f7f7f7;
 }
 
 footer p {
