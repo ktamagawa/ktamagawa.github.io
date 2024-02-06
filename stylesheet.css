@@ -7,6 +7,12 @@ body {
   font-family: "Avenir Next", "yu gothic ui";
 }
 
+.container {
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
 header {
   height: 65px;
   width: 100%;
@@ -18,11 +24,11 @@ header {
 
 .header-left {
   float: left;
+  padding-left: 5%;
 }
 
 .header-left p {
   line-height: 65px;
-  padding-left: 5%;
   color: white;
   display: block;
   float: left;
@@ -52,12 +58,6 @@ a {
 
 .fa {
   margin-right: 5px;
-}
-
-.container {
-  width: 100%;
-  padding: 0 15px;
-  margin: 0 auto;
 }
 
 .heading {
